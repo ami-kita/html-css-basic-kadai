@@ -97,6 +97,9 @@ PC用のスタイル
   #log-sp {
     margin: 80px 0 30px 20px;
   }
+  #logo-sp > img {
+    margin: 80px 0px 30px 20px;
+  }
   #nav-sp > a {
     display: block;
   }
@@ -116,7 +119,7 @@ PC用のスタイル
   #nav-sp > .menu {
     text-decoration: none;
     display: block;
-    margin: 0 20px 0 20px;
+    margin: 0 20px;
     height: 44px;
     font-size: 16px;
     background-image: url(images/arrow.png);
